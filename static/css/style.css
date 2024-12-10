@@ -1,0 +1,37 @@
+body{
+    <
+}
+.first-div{
+    float: left;
+    width: 20%;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20% 0% 0% 15%;
+    padding: 5px;
+    color: blue;
+    background-color: aqua;
+    text-transform: capitalize;
+    
+}
+.second-div{
+    float: left;
+    width: 20%;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20% 0% 0% 5%;
+    padding: 5px;
+    color: brown;
+    background-color: navy;
+    text-transform: capitalize;
+}
+.third-div{
+    float: left;
+    width: 20%;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20% 0% 0% 5%;
+    padding: 5px;
+    color: blueviolet;
+    background-color: cadetblue;
+    text-transform: capitalize;
+}
